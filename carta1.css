@@ -105,7 +105,7 @@ color:white
 }
 .close-paper{
    
-    animation: closePaper  1s forwards;
+    animation: closePaper  .5s forwards;
 }
 
 @keyframes closePaper{
